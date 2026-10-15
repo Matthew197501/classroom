@@ -1,0 +1,10 @@
+{
+  "name": "Lecture Room",
+  "short_name": "Lecture Room",
+  "description": "A local prerecorded lecture player.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#17191f",
+  "theme_color": "#17191f",
+  "icons": []
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cs101-lecture-01",
+    "title": "Computer Science",
+    "src": "/lectures/computer-science-01.mp4",
+    "course": "CS101"
+  },
+  {
+    "id": "cs101-lecture-02",
+    "title": "Computer Systems and Data",
+    "src": "/lectures/02-computer-systems.mp4",
+    "course": "CS101"
+  },
+  {
+    "id": "cs101-lecture-03",
+    "title": "Networks and the Internet",
+    "src": "/lectures/03-networks.mp4",
+    "course": "CS101"
+  }
+]
